@@ -3,7 +3,7 @@
 A meal-planning and shopping-list app built for **[The WebMCP Challenge](https://webmcp.devpost.com/)**.
 
 **[Live demo](https://zingy-hamster-1df2ed.netlify.app/)** ·
-**[Full documentation](https://akashtalole.github.io/PantryPilot/)** ·
+**[Full documentation](https://roshnikasliwal.github.io/PantryPilot/)** ·
 **[On Devpost](https://devpost.com/software/webmcp-btw3nd)**
 
 PantryPilot is an ordinary, useful web app — plan a week of dinners, respect
@@ -76,7 +76,7 @@ Full schemas are in [`js/webmcp-tools.js`](js/webmcp-tools.js).
 
 ## Using it
 
-See **[How to Use](https://akashtalole.github.io/PantryPilot/usage/)** in the
+See **[How to Use](https://roshnikasliwal.github.io/PantryPilot/usage/)** in the
 docs for a full walkthrough with screenshots, including exact steps to
 enable WebMCP in Chrome so the page registers its tools natively.
 
