@@ -56,4 +56,4 @@ AI agents can use them collaboratively." PantryPilot is built so that:
 
 ## License
 
-MIT — see [`LICENSE`](https://github.com/akashtalole/PantryPilot/blob/main/LICENSE).
+MIT — see [`LICENSE`](https://github.com/roshnikasliwal/PantryPilot/blob/main/LICENSE).
