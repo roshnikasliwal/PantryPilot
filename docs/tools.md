@@ -2,11 +2,11 @@
 
 PantryPilot registers 19 tools via `document.modelContext.registerTool()`.
 Every one of them wraps a function in
-[`js/actions.js`](https://github.com/akashtalole/PantryPilot/blob/main/js/actions.js) —
+[`js/actions.js`](https://github.com/roshnikasliwal/PantryPilot/blob/main/js/actions.js) —
 the same functions the human-facing UI calls — so an agent using these
 tools has no more power over the page than a person clicking through it.
 Full JSON Schemas live in
-[`js/webmcp-tools.js`](https://github.com/akashtalole/PantryPilot/blob/main/js/webmcp-tools.js).
+[`js/webmcp-tools.js`](https://github.com/roshnikasliwal/PantryPilot/blob/main/js/webmcp-tools.js).
 
 ## Recipes
 
